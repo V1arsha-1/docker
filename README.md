@@ -128,6 +128,8 @@ CREATE TABLE books (
     isbn TEXT UNIQUE,
     is_available BOOLEAN DEFAULT TRUE
 );
+![d1](https://github.com/user-attachments/assets/756fcefe-7782-43fb-8400-418483ee70cf)
+
 
 
 SERIAL → Auto-increment integer (primary key).
@@ -199,6 +201,9 @@ COPY app.py .
 
 RUN pip install psycopg2-binary
 
+
+![d3](https://github.com/user-attachments/assets/8d23fe57-f820-44ce-a9d0-98c2c3abaf53)
+
 CMD ["python", "app.py"]
 
 
@@ -267,3 +272,5 @@ Use --network <network> to ensure Python container can reach PostgreSQL.
 Use docker logs <container_name> to check container output if something fails.
 
 To persist PostgreSQL data beyond container lifecycle, use Docker volumes:# docker
+![d1](https://github.com/user-attachments/assets/54d36935-ded1-4d8f-9c31-20aa569c1efe)
+
