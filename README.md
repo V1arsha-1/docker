@@ -174,7 +174,9 @@ docker run --rm --network mynetwork1 my-python-app
 Expected Output:
 ![d4](https://github.com/user-attachments/assets/c3c42b18-925f-45bb-aff8-1a176a453aff)
 Connected to the database!
+
 Data inserted successfully!
+
 Data in table:
 (1, 'The Alchemist', 'Paulo Coelho', 1988, 'Fiction', '9780061122415', True)
 (2, 'Clean Code', 'Robert C. Martin', 2008, 'Programming', '9780132350884', True)
