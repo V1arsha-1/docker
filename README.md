@@ -1,4 +1,4 @@
-#**DevOps Practice Project: Containerizing and Deploying a Python App with Docker**#
+#**DevOps Practice Project: Containerizing and Deploying a Python App with Docker**
 
 Project Overview
 This project demonstrates how to Install and set up Docker on your system.Use PostgreSQL inside a Docker container.Create and manage a database and tables.Dockerize a Python application to connect to PostgreSQL.Use Docker networks to allow containers to communicate.This is a beginner-friendly guide with clear steps, commands, and explanations.
