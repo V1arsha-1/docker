@@ -200,6 +200,7 @@ SELECT * FROM books WHERE genre = 'Programming';
 Add more tables (e.g., members, loans) and link them with foreign keys.
 
 Conclusion
+
 This project demonstrates how to containerize a simple application using Docker, build a Docker image, run it as a container, and push it to Docker Hub. By following these steps, you learned how Docker simplifies application deployment, ensures consistency across environments, and makes it easy to share applications with others. You also explored basic Docker commands such as building images, running containers, viewing logs, and managing ports.
 
 Concepts We Learned in This Docker Project
